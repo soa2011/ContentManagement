@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>MigrateFileResources</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>documentAggrManager.migrateFileResources(context,request)</sch:methodBody>
+    <sch:methodBody>contentAggrManager.migrateFileResources(context,request)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>

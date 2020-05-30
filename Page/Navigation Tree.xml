@@ -134,7 +134,7 @@
             <sch:format>App版本(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -156,7 +156,7 @@
             <sch:format>App分享(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -310,7 +310,7 @@
             <sch:format>区域管理(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>

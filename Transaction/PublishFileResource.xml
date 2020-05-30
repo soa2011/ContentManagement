@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>PublishFileResource</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>documentAggrManager.publishFileResource(context,request)</sch:methodBody>
+    <sch:methodBody>contentAggrManager.publishFileResource(context,request)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>
