@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="PublishFileResource">
+    <sch:seqIndex>8</sch:seqIndex>
+    <sch:name>PublishFileResource</sch:name>
+    <sch:label>PublishFileResource</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>PublishFileResource</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">PublishFileResource</sch:bmfTransaction>
+</sch:Button>
