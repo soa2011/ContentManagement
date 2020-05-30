@@ -43,7 +43,7 @@
             <sch:tableName>ContentFolder</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>200</sch:seqIndex>
-            <sch:format>文档目录(%s)</sch:format>
+            <sch:format>ContentFolder(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -65,7 +65,7 @@
             <sch:tableName>ContentCategory</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>200</sch:seqIndex>
-            <sch:format>文档类别(%s)</sch:format>
+            <sch:format>ContentCategory(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -87,7 +87,7 @@
             <sch:tableName>DocumentItem</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>300</sch:seqIndex>
-            <sch:format>文档(%s)</sch:format>
+            <sch:format>DocumentItem(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -109,7 +109,7 @@
             <sch:tableName>FileResource</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>400</sch:seqIndex>
-            <sch:format>文件资源(%s)</sch:format>
+            <sch:format>FileResource(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -178,7 +178,7 @@
             <sch:format>问卷模板(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -200,7 +200,7 @@
             <sch:format>客户评估等级(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -222,7 +222,7 @@
             <sch:format>问题(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -244,7 +244,7 @@
             <sch:format>选择项(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -266,7 +266,7 @@
             <sch:format>问卷实例(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
@@ -288,7 +288,7 @@
             <sch:format>问题答案(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>

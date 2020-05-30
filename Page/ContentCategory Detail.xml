@@ -86,7 +86,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>名称</sch:label>
+            <sch:label>Name</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -136,7 +136,7 @@
             <sch:fieldType>TextArea</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>说明</sch:label>
+            <sch:label>Description</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -186,7 +186,7 @@
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType>ContentCategory</sch:refTargetType>
-            <sch:label>上级分类</sch:label>
+            <sch:label>ParentCategoryId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -236,7 +236,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>序号</sch:label>
+            <sch:label>SeqNumber</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -286,7 +286,7 @@
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType>FileResource</sch:refTargetType>
-            <sch:label>文件资源</sch:label>
+            <sch:label>ResourceId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>

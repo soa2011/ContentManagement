@@ -36,7 +36,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档代码</sch:label>
+            <sch:label>Code</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -86,7 +86,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>名称</sch:label>
+            <sch:label>Name</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -136,7 +136,7 @@
             <sch:fieldType>Select</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档类型</sch:label>
+            <sch:label>Type</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName>ContentType</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -187,7 +187,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>标题</sch:label>
+            <sch:label>Title</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -237,7 +237,7 @@
             <sch:fieldType>Datetime</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>开始日期</sch:label>
+            <sch:label>StartDate</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -287,7 +287,7 @@
             <sch:fieldType>Datetime</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>结束日期</sch:label>
+            <sch:label>EndDate</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -337,7 +337,7 @@
             <sch:fieldType>Select</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>状态</sch:label>
+            <sch:label>Status</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName>ContentStatus</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -388,7 +388,7 @@
             <sch:fieldType>Select</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档类型</sch:label>
+            <sch:label>DocumentType</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName>DocType</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -439,7 +439,7 @@
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType>ContentCategory</sch:refTargetType>
-            <sch:label>类别</sch:label>
+            <sch:label>CategoryId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -489,7 +489,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>序号</sch:label>
+            <sch:label>SeqNumber</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -539,7 +539,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>说明</sch:label>
+            <sch:label>Description</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -589,7 +589,7 @@
             <sch:fieldType>Section Header Begin</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档概要</sch:label>
+            <sch:label>Summary</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -639,7 +639,7 @@
             <sch:fieldType>RichText</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档概要</sch:label>
+            <sch:label>ContentSummary</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -689,7 +689,7 @@
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType>FileResource</sch:refTargetType>
-            <sch:label>概要图片资源</sch:label>
+            <sch:label>SummaryResourceId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -739,7 +739,7 @@
             <sch:fieldType>Section Header End</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档概要</sch:label>
+            <sch:label></sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -789,7 +789,7 @@
             <sch:fieldType>Section Header Begin</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档内容</sch:label>
+            <sch:label>ContentDetail</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -839,7 +839,7 @@
             <sch:fieldType>TextArea</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档内容(文本)</sch:label>
+            <sch:label>ContentBodyText</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -889,7 +889,7 @@
             <sch:fieldType>RichText</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档内容</sch:label>
+            <sch:label>ContentBody</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -939,7 +939,7 @@
             <sch:fieldType>File</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档数据</sch:label>
+            <sch:label>ContentData</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -989,7 +989,7 @@
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType>FileResource</sch:refTargetType>
-            <sch:label>文档数据资源</sch:label>
+            <sch:label>ContentResourceId</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -1039,7 +1039,7 @@
             <sch:fieldType>Edit</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档作者</sch:label>
+            <sch:label>ContentAuthor</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -1089,7 +1089,7 @@
             <sch:fieldType>Section Header End</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>文档日志</sch:label>
+            <sch:label></sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
