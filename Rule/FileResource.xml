@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Rule xmlns:sch="http://aiaf.com/schemas" name="FileResource">
+    <sch:name>FileResource</sch:name>
+    <sch:tableName>FileResource</sch:tableName>
+    <sch:referenceName></sch:referenceName>
+    <sch:referenceNumber></sch:referenceNumber>
+    <sch:ruleType>Update</sch:ruleType>
+    <sch:ruleCode></sch:ruleCode>
+    <sch:ruleLanguage></sch:ruleLanguage>
+    <sch:ruleBody></sch:ruleBody>
+    <sch:seqNumber>1</sch:seqNumber>
+</sch:Rule>

@@ -2,7 +2,7 @@
 <sch:Button xmlns:sch="http://aiaf.com/schemas" name="EditContent">
     <sch:seqIndex>10</sch:seqIndex>
     <sch:name>EditContent</sch:name>
-    <sch:label>编辑内容</sch:label>
+    <sch:label>EditContent</sch:label>
     <sch:behavior>ExecuteJavaScript</sch:behavior>
     <sch:bmfTransactionName></sch:bmfTransactionName>
     <sch:content>editFileResource()</sch:content>
