@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" name="DocumentItem">
+<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="DocumentItem">
     <sch:name>DocumentItem</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>
@@ -9,6 +9,17 @@
     <sch:primaryKey></sch:primaryKey>
     <sch:description></sch:description>
     <sch:bmfRelationships>
+        <sch:BmfObjectRelationship>
+            <sch:type>REF_TO_ONE</sch:type>
+            <sch:name>FolderId</sch:name>
+            <sch:displayName></sch:displayName>
+            <sch:description>类别</sch:description>
+            <sch:relatedObjectType>ContentFolder</sch:relatedObjectType>
+            <sch:joinField></sch:joinField>
+            <sch:lowerBound>0</sch:lowerBound>
+            <sch:upperBound>1</sch:upperBound>
+            <sch:containment>false</sch:containment>
+        </sch:BmfObjectRelationship>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_ONE</sch:type>
             <sch:name>CategoryId</sch:name>
@@ -37,17 +48,6 @@
             <sch:displayName></sch:displayName>
             <sch:description>文档数据资源</sch:description>
             <sch:relatedObjectType>FileResource</sch:relatedObjectType>
-            <sch:joinField></sch:joinField>
-            <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
-            <sch:containment>false</sch:containment>
-        </sch:BmfObjectRelationship>
-        <sch:BmfObjectRelationship>
-            <sch:type>REF_TO_ONE</sch:type>
-            <sch:name>CompanyID</sch:name>
-            <sch:displayName></sch:displayName>
-            <sch:description>平台商ID</sch:description>
-            <sch:relatedObjectType></sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>

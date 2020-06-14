@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:Rule xmlns:sch="http://aiaf.com/schemas" name="FileResource">
+<sch:Rule xmlns:sch="http://Baf.com/schemas" name="FileResource">
     <sch:name>FileResource</sch:name>
     <sch:tableName>FileResource</sch:tableName>
     <sch:referenceName></sch:referenceName>

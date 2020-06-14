@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" name="ContentManagement">
+<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="ContentManagement">
     <sch:name>ContentManagement</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>
@@ -15,6 +15,39 @@
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
             <sch:relatedObjectType>ContentFolder</sch:relatedObjectType>
+            <sch:joinField></sch:joinField>
+            <sch:lowerBound>0</sch:lowerBound>
+            <sch:upperBound>-1</sch:upperBound>
+            <sch:containment>false</sch:containment>
+        </sch:BmfObjectRelationship>
+        <sch:BmfObjectRelationship>
+            <sch:type>REF_TO_MANY</sch:type>
+            <sch:name>ContentCategory</sch:name>
+            <sch:displayName></sch:displayName>
+            <sch:description></sch:description>
+            <sch:relatedObjectType>ContentCategory</sch:relatedObjectType>
+            <sch:joinField></sch:joinField>
+            <sch:lowerBound>0</sch:lowerBound>
+            <sch:upperBound>-1</sch:upperBound>
+            <sch:containment>false</sch:containment>
+        </sch:BmfObjectRelationship>
+        <sch:BmfObjectRelationship>
+            <sch:type>REF_TO_MANY</sch:type>
+            <sch:name>DocumentItem</sch:name>
+            <sch:displayName></sch:displayName>
+            <sch:description></sch:description>
+            <sch:relatedObjectType>DocumentItem</sch:relatedObjectType>
+            <sch:joinField></sch:joinField>
+            <sch:lowerBound>0</sch:lowerBound>
+            <sch:upperBound>-1</sch:upperBound>
+            <sch:containment>false</sch:containment>
+        </sch:BmfObjectRelationship>
+        <sch:BmfObjectRelationship>
+            <sch:type>REF_TO_MANY</sch:type>
+            <sch:name>FileResource</sch:name>
+            <sch:displayName></sch:displayName>
+            <sch:description></sch:description>
+            <sch:relatedObjectType>FileResource</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>-1</sch:upperBound>
